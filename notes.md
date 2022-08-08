@@ -1,8 +1,8 @@
----
-description: Daily Notes – Online Archive Project (Dipowinatan Server)
----
-
 # Notes
+
+{% hint style="info" %}
+**Daily Notes:** Online Archive Project (_Dipowinatan Server_)
+{% endhint %}
 
 ## Monthly <a href="#note" id="note"></a>
 

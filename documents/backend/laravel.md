@@ -1,8 +1,8 @@
----
-description: Web frame work
----
-
 # Laravel
+
+{% hint style="info" %}
+this just a beginning.&#x20;
+{% endhint %}
 
 ### Get Started
 
