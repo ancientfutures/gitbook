@@ -1,10 +1,8 @@
-# Database
+# command
 
-{% hint style="info" %}
-**Using:** Maria db as store all data.
-{% endhint %}
 
-Basic command **mysql:**
+
+Basic command **mysql :**
 
 ```
 $ mysql -u root -p —— login mysql
