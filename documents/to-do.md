@@ -1,7 +1,7 @@
-# Notes
+# TO-DO
 
 ### My Activities:
 
 {% hint style="info" %}
-**Basic Layout: \*.**blade.php
+**Basic Layout:** using blade layout.
 {% endhint %}
